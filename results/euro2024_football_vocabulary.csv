@@ -1,0 +1,766 @@
+match_id,source,category,count,per_1000_words
+1,BBC,Attack,0,0.0
+1,BBC,Defense,0,0.0
+1,BBC,Goals,6,8.995502248875562
+1,BBC,Positive Evaluation,2,2.998500749625187
+1,BBC,Negative Evaluation,0,0.0
+2,BBC,Attack,3,6.4655172413793105
+2,BBC,Defense,0,0.0
+2,BBC,Goals,2,4.310344827586206
+2,BBC,Positive Evaluation,0,0.0
+2,BBC,Negative Evaluation,0,0.0
+3,BBC,Attack,7,7.891770011273957
+3,BBC,Defense,1,1.1273957158962795
+3,BBC,Goals,6,6.764374295377677
+3,BBC,Positive Evaluation,2,2.254791431792559
+3,BBC,Negative Evaluation,1,1.1273957158962795
+4,BBC,Attack,6,9.771986970684038
+4,BBC,Defense,2,3.257328990228013
+4,BBC,Goals,6,9.771986970684038
+4,BBC,Positive Evaluation,1,1.6286644951140066
+4,BBC,Negative Evaluation,0,0.0
+5,BBC,Attack,4,6.1255742725880555
+5,BBC,Defense,1,1.5313935681470139
+5,BBC,Goals,2,3.0627871362940278
+5,BBC,Positive Evaluation,1,1.5313935681470139
+5,BBC,Negative Evaluation,0,0.0
+6,BBC,Attack,4,6.633499170812604
+6,BBC,Defense,1,1.658374792703151
+6,BBC,Goals,7,11.608623548922056
+6,BBC,Positive Evaluation,0,0.0
+6,BBC,Negative Evaluation,1,1.658374792703151
+7,BBC,Attack,6,8.534850640113799
+7,BBC,Defense,0,0.0
+7,BBC,Goals,3,4.2674253200568995
+7,BBC,Positive Evaluation,0,0.0
+7,BBC,Negative Evaluation,0,0.0
+8,BBC,Attack,5,6.944444444444444
+8,BBC,Defense,1,1.3888888888888888
+8,BBC,Goals,5,6.944444444444444
+8,BBC,Positive Evaluation,1,1.3888888888888888
+8,BBC,Negative Evaluation,1,1.3888888888888888
+9,BBC,Attack,4,7.0298769771529
+9,BBC,Defense,0,0.0
+9,BBC,Goals,6,10.54481546572935
+9,BBC,Positive Evaluation,1,1.757469244288225
+9,BBC,Negative Evaluation,3,5.272407732864675
+10,BBC,Attack,3,8.04289544235925
+10,BBC,Defense,0,0.0
+10,BBC,Goals,3,8.04289544235925
+10,BBC,Positive Evaluation,1,2.680965147453083
+10,BBC,Negative Evaluation,3,8.04289544235925
+11,BBC,Attack,2,3.883495145631068
+11,BBC,Defense,0,0.0
+11,BBC,Goals,4,7.766990291262136
+11,BBC,Positive Evaluation,0,0.0
+11,BBC,Negative Evaluation,0,0.0
+12,BBC,Attack,4,8.547008547008549
+12,BBC,Defense,0,0.0
+12,BBC,Goals,5,10.683760683760683
+12,BBC,Positive Evaluation,0,0.0
+12,BBC,Negative Evaluation,0,0.0
+13,BBC,Attack,10,10.504201680672269
+13,BBC,Defense,2,2.100840336134454
+13,BBC,Goals,5,5.2521008403361344
+13,BBC,Positive Evaluation,1,1.050420168067227
+13,BBC,Negative Evaluation,1,1.050420168067227
+14,BBC,Attack,3,3.3594624860022395
+14,BBC,Defense,2,2.2396416573348263
+14,BBC,Goals,7,7.838745800671893
+14,BBC,Positive Evaluation,2,2.2396416573348263
+14,BBC,Negative Evaluation,1,1.1198208286674132
+15,BBC,Attack,4,6.814310051107325
+15,BBC,Defense,0,0.0
+15,BBC,Goals,8,13.62862010221465
+15,BBC,Positive Evaluation,1,1.7035775127768313
+15,BBC,Negative Evaluation,0,0.0
+16,BBC,Attack,6,8.333333333333334
+16,BBC,Defense,1,1.3888888888888888
+16,BBC,Goals,3,4.166666666666667
+16,BBC,Positive Evaluation,5,6.944444444444444
+16,BBC,Negative Evaluation,0,0.0
+17,BBC,Attack,2,2.881844380403458
+17,BBC,Defense,0,0.0
+17,BBC,Goals,4,5.763688760806916
+17,BBC,Positive Evaluation,0,0.0
+17,BBC,Negative Evaluation,5,7.204610951008645
+18,BBC,Attack,4,8.908685968819599
+18,BBC,Defense,1,2.2271714922048997
+18,BBC,Goals,3,6.6815144766147
+18,BBC,Positive Evaluation,0,0.0
+18,BBC,Negative Evaluation,0,0.0
+19,BBC,Attack,5,6.142506142506142
+19,BBC,Defense,1,1.2285012285012284
+19,BBC,Goals,8,9.828009828009828
+19,BBC,Positive Evaluation,0,0.0
+19,BBC,Negative Evaluation,0,0.0
+20,BBC,Attack,7,11.647254575707155
+20,BBC,Defense,0,0.0
+20,BBC,Goals,6,9.983361064891847
+20,BBC,Positive Evaluation,0,0.0
+20,BBC,Negative Evaluation,0,0.0
+21,BBC,Attack,5,13.192612137203167
+21,BBC,Defense,1,2.638522427440633
+21,BBC,Goals,5,13.192612137203167
+21,BBC,Positive Evaluation,1,2.638522427440633
+21,BBC,Negative Evaluation,0,0.0
+22,BBC,Attack,6,9.70873786407767
+22,BBC,Defense,0,0.0
+22,BBC,Goals,4,6.472491909385114
+22,BBC,Positive Evaluation,1,1.6181229773462784
+22,BBC,Negative Evaluation,0,0.0
+23,BBC,Attack,5,7.82472613458529
+23,BBC,Defense,2,3.1298904538341157
+23,BBC,Goals,7,10.954616588419405
+23,BBC,Positive Evaluation,1,1.5649452269170578
+23,BBC,Negative Evaluation,1,1.5649452269170578
+24,BBC,Attack,6,9.47867298578199
+24,BBC,Defense,1,1.5797788309636651
+24,BBC,Goals,4,6.3191153238546605
+24,BBC,Positive Evaluation,0,0.0
+24,BBC,Negative Evaluation,0,0.0
+25,BBC,Attack,6,8.01068090787717
+25,BBC,Defense,0,0.0
+25,BBC,Goals,13,17.356475300400533
+25,BBC,Positive Evaluation,1,1.335113484646195
+25,BBC,Negative Evaluation,0,0.0
+26,BBC,Attack,7,8.092485549132947
+26,BBC,Defense,2,2.3121387283236996
+26,BBC,Goals,7,8.092485549132947
+26,BBC,Positive Evaluation,0,0.0
+26,BBC,Negative Evaluation,0,0.0
+27,BBC,Attack,5,8.389261744966444
+27,BBC,Defense,0,0.0
+27,BBC,Goals,8,13.422818791946309
+27,BBC,Positive Evaluation,0,0.0
+27,BBC,Negative Evaluation,0,0.0
+28,BBC,Attack,4,7.312614259597806
+28,BBC,Defense,0,0.0
+28,BBC,Goals,3,5.484460694698354
+28,BBC,Positive Evaluation,0,0.0
+28,BBC,Negative Evaluation,0,0.0
+29,BBC,Attack,2,2.7210884353741496
+29,BBC,Defense,1,1.3605442176870748
+29,BBC,Goals,4,5.442176870748299
+29,BBC,Positive Evaluation,1,1.3605442176870748
+29,BBC,Negative Evaluation,1,1.3605442176870748
+30,BBC,Attack,8,11.0803324099723
+30,BBC,Defense,1,1.3850415512465375
+30,BBC,Goals,4,5.54016620498615
+30,BBC,Positive Evaluation,0,0.0
+30,BBC,Negative Evaluation,2,2.770083102493075
+31,BBC,Attack,6,10.507880910683012
+31,BBC,Defense,0,0.0
+31,BBC,Goals,3,5.253940455341506
+31,BBC,Positive Evaluation,2,3.502626970227671
+31,BBC,Negative Evaluation,0,0.0
+32,BBC,Attack,2,3.7593984962406015
+32,BBC,Defense,2,3.7593984962406015
+32,BBC,Goals,9,16.917293233082706
+32,BBC,Positive Evaluation,0,0.0
+32,BBC,Negative Evaluation,2,3.7593984962406015
+33,BBC,Attack,3,7.317073170731708
+33,BBC,Defense,1,2.4390243902439024
+33,BBC,Goals,2,4.878048780487805
+33,BBC,Positive Evaluation,0,0.0
+33,BBC,Negative Evaluation,0,0.0
+34,BBC,Attack,4,5.35475234270415
+34,BBC,Defense,2,2.677376171352075
+34,BBC,Goals,3,4.016064257028112
+34,BBC,Positive Evaluation,0,0.0
+34,BBC,Negative Evaluation,2,2.677376171352075
+35,BBC,Attack,3,5.859375
+35,BBC,Defense,1,1.953125
+35,BBC,Goals,2,3.90625
+35,BBC,Positive Evaluation,0,0.0
+35,BBC,Negative Evaluation,0,0.0
+36,BBC,Attack,2,4.246284501061571
+36,BBC,Defense,1,2.1231422505307855
+36,BBC,Goals,3,6.369426751592357
+36,BBC,Positive Evaluation,0,0.0
+36,BBC,Negative Evaluation,0,0.0
+37,BBC,Attack,4,6.568144499178982
+37,BBC,Defense,0,0.0
+37,BBC,Goals,13,21.346469622331693
+37,BBC,Positive Evaluation,1,1.6420361247947455
+37,BBC,Negative Evaluation,0,0.0
+38,BBC,Attack,3,5.338078291814947
+38,BBC,Defense,3,5.338078291814947
+38,BBC,Goals,2,3.558718861209964
+38,BBC,Positive Evaluation,1,1.779359430604982
+38,BBC,Negative Evaluation,0,0.0
+39,BBC,Attack,11,13.447432762836184
+39,BBC,Defense,1,1.2224938875305624
+39,BBC,Goals,7,8.557457212713937
+39,BBC,Positive Evaluation,1,1.2224938875305624
+39,BBC,Negative Evaluation,0,0.0
+40,BBC,Attack,0,0.0
+40,BBC,Defense,1,1.314060446780552
+40,BBC,Goals,6,7.884362680683311
+40,BBC,Positive Evaluation,2,2.628120893561104
+40,BBC,Negative Evaluation,2,2.628120893561104
+41,BBC,Attack,8,12.738853503184714
+41,BBC,Defense,0,0.0
+41,BBC,Goals,2,3.1847133757961785
+41,BBC,Positive Evaluation,0,0.0
+41,BBC,Negative Evaluation,0,0.0
+42,BBC,Attack,7,14.0
+42,BBC,Defense,0,0.0
+42,BBC,Goals,9,18.0
+42,BBC,Positive Evaluation,0,0.0
+42,BBC,Negative Evaluation,0,0.0
+43,BBC,Attack,6,10.948905109489052
+43,BBC,Defense,0,0.0
+43,BBC,Goals,10,18.24817518248175
+43,BBC,Positive Evaluation,5,9.124087591240874
+43,BBC,Negative Evaluation,0,0.0
+44,BBC,Attack,2,3.2948929159802307
+44,BBC,Defense,1,1.6474464579901154
+44,BBC,Goals,9,14.827018121911038
+44,BBC,Positive Evaluation,1,1.6474464579901154
+44,BBC,Negative Evaluation,0,0.0
+45,BBC,Attack,1,1.6286644951140066
+45,BBC,Defense,0,0.0
+45,BBC,Goals,2,3.257328990228013
+45,BBC,Positive Evaluation,0,0.0
+45,BBC,Negative Evaluation,1,1.6286644951140066
+46,BBC,Attack,6,7.371007371007371
+46,BBC,Defense,2,2.457002457002457
+46,BBC,Goals,3,3.6855036855036856
+46,BBC,Positive Evaluation,2,2.457002457002457
+46,BBC,Negative Evaluation,0,0.0
+47,BBC,Attack,4,6.67779632721202
+47,BBC,Defense,2,3.33889816360601
+47,BBC,Goals,4,6.67779632721202
+47,BBC,Positive Evaluation,5,8.347245409015025
+47,BBC,Negative Evaluation,2,3.33889816360601
+48,BBC,Attack,3,3.6496350364963503
+48,BBC,Defense,1,1.2165450121654502
+48,BBC,Goals,3,3.6496350364963503
+48,BBC,Positive Evaluation,2,2.4330900243309004
+48,BBC,Negative Evaluation,0,0.0
+49,BBC,Attack,2,2.6845637583892614
+49,BBC,Defense,1,1.3422818791946307
+49,BBC,Goals,1,1.3422818791946307
+49,BBC,Positive Evaluation,2,2.6845637583892614
+49,BBC,Negative Evaluation,0,0.0
+50,BBC,Attack,8,14.869888475836431
+50,BBC,Defense,2,3.717472118959108
+50,BBC,Goals,11,20.44609665427509
+50,BBC,Positive Evaluation,1,1.858736059479554
+50,BBC,Negative Evaluation,0,0.0
+51,BBC,Attack,4,4.158004158004158
+51,BBC,Defense,1,1.0395010395010396
+51,BBC,Goals,8,8.316008316008316
+51,BBC,Positive Evaluation,4,4.158004158004158
+51,BBC,Negative Evaluation,0,0.0
+1,Marca,Attack,4,4.214963119072708
+1,Marca,Defense,1,1.053740779768177
+1,Marca,Goals,7,7.37618545837724
+1,Marca,Positive Evaluation,0,0.0
+1,Marca,Negative Evaluation,0,0.0
+2,Marca,Attack,2,3.327787021630616
+2,Marca,Defense,1,1.663893510815308
+2,Marca,Goals,11,18.302828618968388
+2,Marca,Positive Evaluation,1,1.663893510815308
+2,Marca,Negative Evaluation,2,3.327787021630616
+3,Marca,Attack,4,5.383580080753701
+3,Marca,Defense,1,1.3458950201884252
+3,Marca,Goals,8,10.767160161507402
+3,Marca,Positive Evaluation,0,0.0
+3,Marca,Negative Evaluation,0,0.0
+4,Marca,Attack,3,5.870841487279844
+4,Marca,Defense,1,1.9569471624266144
+4,Marca,Goals,4,7.8277886497064575
+4,Marca,Positive Evaluation,0,0.0
+4,Marca,Negative Evaluation,0,0.0
+5,Marca,Attack,1,1.8552875695732838
+5,Marca,Defense,0,0.0
+5,Marca,Goals,1,1.8552875695732838
+5,Marca,Positive Evaluation,0,0.0
+5,Marca,Negative Evaluation,0,0.0
+6,Marca,Attack,2,3.717472118959108
+6,Marca,Defense,0,0.0
+6,Marca,Goals,4,7.434944237918216
+6,Marca,Positive Evaluation,0,0.0
+6,Marca,Negative Evaluation,0,0.0
+7,Marca,Attack,6,11.320754716981131
+7,Marca,Defense,1,1.8867924528301887
+7,Marca,Goals,7,13.20754716981132
+7,Marca,Positive Evaluation,0,0.0
+7,Marca,Negative Evaluation,1,1.8867924528301887
+8,Marca,Attack,7,10.510510510510512
+8,Marca,Defense,0,0.0
+8,Marca,Goals,2,3.003003003003003
+8,Marca,Positive Evaluation,0,0.0
+8,Marca,Negative Evaluation,0,0.0
+9,Marca,Attack,11,17.001545595054097
+9,Marca,Defense,2,3.0911901081916535
+9,Marca,Goals,11,17.001545595054097
+9,Marca,Positive Evaluation,0,0.0
+9,Marca,Negative Evaluation,1,1.5455950540958268
+10,Marca,Attack,4,6.299212598425196
+10,Marca,Defense,1,1.574803149606299
+10,Marca,Goals,9,14.173228346456693
+10,Marca,Positive Evaluation,0,0.0
+10,Marca,Negative Evaluation,1,1.574803149606299
+11,Marca,Attack,7,10.401188707280832
+11,Marca,Defense,0,0.0
+11,Marca,Goals,8,11.88707280832095
+11,Marca,Positive Evaluation,0,0.0
+11,Marca,Negative Evaluation,0,0.0
+12,Marca,Attack,6,8.108108108108109
+12,Marca,Defense,1,1.3513513513513513
+12,Marca,Goals,13,17.56756756756757
+12,Marca,Positive Evaluation,0,0.0
+12,Marca,Negative Evaluation,0,0.0
+13,Marca,Attack,2,4.123711340206186
+13,Marca,Defense,0,0.0
+13,Marca,Goals,8,16.494845360824744
+13,Marca,Positive Evaluation,0,0.0
+13,Marca,Negative Evaluation,1,2.061855670103093
+14,Marca,Attack,6,7.957559681697613
+14,Marca,Defense,1,1.3262599469496021
+14,Marca,Goals,9,11.936339522546419
+14,Marca,Positive Evaluation,0,0.0
+14,Marca,Negative Evaluation,0,0.0
+15,Marca,Attack,5,9.22509225092251
+15,Marca,Defense,3,5.535055350553505
+15,Marca,Goals,12,22.14022140221402
+15,Marca,Positive Evaluation,0,0.0
+15,Marca,Negative Evaluation,0,0.0
+16,Marca,Attack,8,12.048192771084338
+16,Marca,Defense,0,0.0
+16,Marca,Goals,2,3.0120481927710845
+16,Marca,Positive Evaluation,0,0.0
+16,Marca,Negative Evaluation,0,0.0
+17,Marca,Attack,6,12.84796573875803
+17,Marca,Defense,0,0.0
+17,Marca,Goals,4,8.565310492505354
+17,Marca,Positive Evaluation,0,0.0
+17,Marca,Negative Evaluation,0,0.0
+18,Marca,Attack,4,6.006006006006006
+18,Marca,Defense,0,0.0
+18,Marca,Goals,5,7.5075075075075075
+18,Marca,Positive Evaluation,0,0.0
+18,Marca,Negative Evaluation,1,1.5015015015015014
+19,Marca,Attack,3,7.299270072992701
+19,Marca,Defense,1,2.4330900243309004
+19,Marca,Goals,5,12.165450121654501
+19,Marca,Positive Evaluation,0,0.0
+19,Marca,Negative Evaluation,0,0.0
+20,Marca,Attack,5,7.751937984496124
+20,Marca,Defense,0,0.0
+20,Marca,Goals,7,10.852713178294573
+20,Marca,Positive Evaluation,0,0.0
+20,Marca,Negative Evaluation,2,3.10077519379845
+21,Marca,Attack,6,14.05152224824356
+21,Marca,Defense,1,2.34192037470726
+21,Marca,Goals,6,14.05152224824356
+21,Marca,Positive Evaluation,0,0.0
+21,Marca,Negative Evaluation,1,2.34192037470726
+22,Marca,Attack,8,17.505470459518598
+22,Marca,Defense,1,2.1881838074398248
+22,Marca,Goals,10,21.88183807439825
+22,Marca,Positive Evaluation,0,0.0
+22,Marca,Negative Evaluation,0,0.0
+23,Marca,Attack,7,11.647254575707155
+23,Marca,Defense,2,3.327787021630616
+23,Marca,Goals,9,14.975041597337771
+23,Marca,Positive Evaluation,0,0.0
+23,Marca,Negative Evaluation,1,1.663893510815308
+24,Marca,Attack,5,12.72264631043257
+24,Marca,Defense,0,0.0
+24,Marca,Goals,6,15.267175572519083
+24,Marca,Positive Evaluation,0,0.0
+24,Marca,Negative Evaluation,0,0.0
+25,Marca,Attack,6,6.269592476489028
+25,Marca,Defense,1,1.0449320794148382
+25,Marca,Goals,10,10.449320794148381
+25,Marca,Positive Evaluation,0,0.0
+25,Marca,Negative Evaluation,0,0.0
+26,Marca,Attack,4,8.130081300813009
+26,Marca,Defense,2,4.065040650406504
+26,Marca,Goals,4,8.130081300813009
+26,Marca,Positive Evaluation,0,0.0
+26,Marca,Negative Evaluation,2,4.065040650406504
+27,Marca,Attack,2,3.0959752321981426
+27,Marca,Defense,1,1.5479876160990713
+27,Marca,Goals,5,7.739938080495356
+27,Marca,Positive Evaluation,0,0.0
+27,Marca,Negative Evaluation,0,0.0
+28,Marca,Attack,4,7.722007722007723
+28,Marca,Defense,0,0.0
+28,Marca,Goals,5,9.652509652509652
+28,Marca,Positive Evaluation,1,1.9305019305019306
+28,Marca,Negative Evaluation,0,0.0
+29,Marca,Attack,3,5.0
+29,Marca,Defense,0,0.0
+29,Marca,Goals,2,3.3333333333333335
+29,Marca,Positive Evaluation,0,0.0
+29,Marca,Negative Evaluation,0,0.0
+30,Marca,Attack,4,7.220216606498195
+30,Marca,Defense,0,0.0
+30,Marca,Goals,5,9.025270758122744
+30,Marca,Positive Evaluation,0,0.0
+30,Marca,Negative Evaluation,0,0.0
+31,Marca,Attack,11,9.883198562443846
+31,Marca,Defense,1,0.8984725965858041
+31,Marca,Goals,13,11.680143755615454
+31,Marca,Positive Evaluation,0,0.0
+31,Marca,Negative Evaluation,0,0.0
+32,Marca,Attack,4,6.700167504187605
+32,Marca,Defense,2,3.3500837520938025
+32,Marca,Goals,4,6.700167504187605
+32,Marca,Positive Evaluation,0,0.0
+32,Marca,Negative Evaluation,1,1.6750418760469012
+33,Marca,Attack,5,12.626262626262626
+33,Marca,Defense,0,0.0
+33,Marca,Goals,7,17.676767676767675
+33,Marca,Positive Evaluation,0,0.0
+33,Marca,Negative Evaluation,0,0.0
+34,Marca,Attack,5,10.0
+34,Marca,Defense,1,2.0
+34,Marca,Goals,5,10.0
+34,Marca,Positive Evaluation,0,0.0
+34,Marca,Negative Evaluation,0,0.0
+35,Marca,Attack,2,3.552397868561279
+35,Marca,Defense,1,1.7761989342806395
+35,Marca,Goals,8,14.209591474245116
+35,Marca,Positive Evaluation,0,0.0
+35,Marca,Negative Evaluation,2,3.552397868561279
+36,Marca,Attack,2,3.9447731755424065
+36,Marca,Defense,1,1.9723865877712032
+36,Marca,Goals,4,7.889546351084813
+36,Marca,Positive Evaluation,0,0.0
+36,Marca,Negative Evaluation,0,0.0
+37,Marca,Attack,3,4.73186119873817
+37,Marca,Defense,0,0.0
+37,Marca,Goals,8,12.618296529968454
+37,Marca,Positive Evaluation,0,0.0
+37,Marca,Negative Evaluation,1,1.5772870662460567
+38,Marca,Attack,7,8.373205741626794
+38,Marca,Defense,0,0.0
+38,Marca,Goals,4,4.784688995215311
+38,Marca,Positive Evaluation,0,0.0
+38,Marca,Negative Evaluation,2,2.3923444976076556
+39,Marca,Attack,3,4.477611940298508
+39,Marca,Defense,1,1.492537313432836
+39,Marca,Goals,7,10.447761194029852
+39,Marca,Positive Evaluation,0,0.0
+39,Marca,Negative Evaluation,0,0.0
+40,Marca,Attack,3,4.385964912280701
+40,Marca,Defense,2,2.923976608187134
+40,Marca,Goals,8,11.695906432748536
+40,Marca,Positive Evaluation,1,1.461988304093567
+40,Marca,Negative Evaluation,0,0.0
+41,Marca,Attack,4,5.763688760806916
+41,Marca,Defense,1,1.440922190201729
+41,Marca,Goals,2,2.881844380403458
+41,Marca,Positive Evaluation,0,0.0
+41,Marca,Negative Evaluation,4,5.763688760806916
+42,Marca,Attack,4,6.932409012131715
+42,Marca,Defense,0,0.0
+42,Marca,Goals,2,3.4662045060658575
+42,Marca,Positive Evaluation,0,0.0
+42,Marca,Negative Evaluation,2,3.4662045060658575
+43,Marca,Attack,6,13.82488479262673
+43,Marca,Defense,0,0.0
+43,Marca,Goals,4,9.216589861751151
+43,Marca,Positive Evaluation,0,0.0
+43,Marca,Negative Evaluation,0,0.0
+44,Marca,Attack,8,10.68090787716956
+44,Marca,Defense,2,2.67022696929239
+44,Marca,Goals,5,6.675567423230975
+44,Marca,Positive Evaluation,0,0.0
+44,Marca,Negative Evaluation,1,1.335113484646195
+45,Marca,Attack,3,4.761904761904763
+45,Marca,Defense,1,1.5873015873015872
+45,Marca,Goals,5,7.936507936507936
+45,Marca,Positive Evaluation,0,0.0
+45,Marca,Negative Evaluation,0,0.0
+46,Marca,Attack,4,5.517241379310344
+46,Marca,Defense,1,1.379310344827586
+46,Marca,Goals,5,6.896551724137931
+46,Marca,Positive Evaluation,0,0.0
+46,Marca,Negative Evaluation,2,2.758620689655172
+47,Marca,Attack,6,10.619469026548673
+47,Marca,Defense,0,0.0
+47,Marca,Goals,5,8.849557522123893
+47,Marca,Positive Evaluation,1,1.7699115044247788
+47,Marca,Negative Evaluation,1,1.7699115044247788
+48,Marca,Attack,1,1.3458950201884252
+48,Marca,Defense,0,0.0
+48,Marca,Goals,5,6.7294751009421265
+48,Marca,Positive Evaluation,0,0.0
+48,Marca,Negative Evaluation,0,0.0
+49,Marca,Attack,2,2.936857562408223
+49,Marca,Defense,0,0.0
+49,Marca,Goals,10,14.684287812041116
+49,Marca,Positive Evaluation,0,0.0
+49,Marca,Negative Evaluation,1,1.4684287812041115
+50,Marca,Attack,6,10.186757215619695
+50,Marca,Defense,1,1.697792869269949
+50,Marca,Goals,7,11.884550084889643
+50,Marca,Positive Evaluation,1,1.697792869269949
+50,Marca,Negative Evaluation,0,0.0
+51,Marca,Attack,3,4.329004329004329
+51,Marca,Defense,0,0.0
+51,Marca,Goals,7,10.101010101010102
+51,Marca,Positive Evaluation,0,0.0
+51,Marca,Negative Evaluation,0,0.0
+1,Kicker,Attack,0,0.0
+1,Kicker,Defense,0,0.0
+1,Kicker,Goals,4,6.700167504187605
+1,Kicker,Positive Evaluation,0,0.0
+1,Kicker,Negative Evaluation,0,0.0
+2,Kicker,Attack,2,2.6109660574412534
+2,Kicker,Defense,0,0.0
+2,Kicker,Goals,5,6.5274151436031325
+2,Kicker,Positive Evaluation,0,0.0
+2,Kicker,Negative Evaluation,1,1.3054830287206267
+3,Kicker,Attack,4,5.89101620029455
+3,Kicker,Defense,0,0.0
+3,Kicker,Goals,12,17.673048600883654
+3,Kicker,Positive Evaluation,2,2.945508100147275
+3,Kicker,Negative Evaluation,0,0.0
+4,Kicker,Attack,3,6.607929515418502
+4,Kicker,Defense,0,0.0
+4,Kicker,Goals,1,2.2026431718061676
+4,Kicker,Positive Evaluation,0,0.0
+4,Kicker,Negative Evaluation,0,0.0
+5,Kicker,Attack,3,5.253940455341506
+5,Kicker,Defense,0,0.0
+5,Kicker,Goals,8,14.010507880910684
+5,Kicker,Positive Evaluation,0,0.0
+5,Kicker,Negative Evaluation,0,0.0
+6,Kicker,Attack,5,7.352941176470588
+6,Kicker,Defense,0,0.0
+6,Kicker,Goals,8,11.76470588235294
+6,Kicker,Positive Evaluation,0,0.0
+6,Kicker,Negative Evaluation,0,0.0
+7,Kicker,Attack,4,8.016032064128256
+7,Kicker,Defense,0,0.0
+7,Kicker,Goals,2,4.008016032064128
+7,Kicker,Positive Evaluation,0,0.0
+7,Kicker,Negative Evaluation,0,0.0
+8,Kicker,Attack,1,1.669449081803005
+8,Kicker,Defense,0,0.0
+8,Kicker,Goals,4,6.67779632721202
+8,Kicker,Positive Evaluation,1,1.669449081803005
+8,Kicker,Negative Evaluation,0,0.0
+9,Kicker,Attack,2,3.454231433506045
+9,Kicker,Defense,0,0.0
+9,Kicker,Goals,5,8.635578583765112
+9,Kicker,Positive Evaluation,1,1.7271157167530224
+9,Kicker,Negative Evaluation,0,0.0
+10,Kicker,Attack,2,3.629764065335753
+10,Kicker,Defense,1,1.8148820326678765
+10,Kicker,Goals,1,1.8148820326678765
+10,Kicker,Positive Evaluation,0,0.0
+10,Kicker,Negative Evaluation,0,0.0
+11,Kicker,Attack,5,7.363770250368188
+11,Kicker,Defense,0,0.0
+11,Kicker,Goals,6,8.836524300441827
+11,Kicker,Positive Evaluation,0,0.0
+11,Kicker,Negative Evaluation,0,0.0
+12,Kicker,Attack,2,4.385964912280701
+12,Kicker,Defense,2,4.385964912280701
+12,Kicker,Goals,3,6.578947368421052
+12,Kicker,Positive Evaluation,0,0.0
+12,Kicker,Negative Evaluation,0,0.0
+13,Kicker,Attack,2,2.9154518950437316
+13,Kicker,Defense,1,1.4577259475218658
+13,Kicker,Goals,2,2.9154518950437316
+13,Kicker,Positive Evaluation,1,1.4577259475218658
+13,Kicker,Negative Evaluation,0,0.0
+14,Kicker,Attack,0,0.0
+14,Kicker,Defense,1,1.5267175572519083
+14,Kicker,Goals,4,6.106870229007633
+14,Kicker,Positive Evaluation,0,0.0
+14,Kicker,Negative Evaluation,1,1.5267175572519083
+15,Kicker,Attack,5,8.976660682226212
+15,Kicker,Defense,0,0.0
+15,Kicker,Goals,6,10.771992818671455
+15,Kicker,Positive Evaluation,0,0.0
+15,Kicker,Negative Evaluation,0,0.0
+16,Kicker,Attack,1,1.7182130584192439
+16,Kicker,Defense,0,0.0
+16,Kicker,Goals,1,1.7182130584192439
+16,Kicker,Positive Evaluation,0,0.0
+16,Kicker,Negative Evaluation,0,0.0
+17,Kicker,Attack,3,3.541912632821724
+17,Kicker,Defense,0,0.0
+17,Kicker,Goals,6,7.083825265643448
+17,Kicker,Positive Evaluation,0,0.0
+17,Kicker,Negative Evaluation,0,0.0
+18,Kicker,Attack,4,7.067137809187279
+18,Kicker,Defense,0,0.0
+18,Kicker,Goals,6,10.60070671378092
+18,Kicker,Positive Evaluation,0,0.0
+18,Kicker,Negative Evaluation,1,1.7667844522968197
+19,Kicker,Attack,3,4.754358161648177
+19,Kicker,Defense,0,0.0
+19,Kicker,Goals,6,9.508716323296355
+19,Kicker,Positive Evaluation,1,1.5847860538827259
+19,Kicker,Negative Evaluation,0,0.0
+20,Kicker,Attack,6,12.711864406779663
+20,Kicker,Defense,0,0.0
+20,Kicker,Goals,3,6.355932203389831
+20,Kicker,Positive Evaluation,0,0.0
+20,Kicker,Negative Evaluation,0,0.0
+21,Kicker,Attack,2,3.0257186081694405
+21,Kicker,Defense,0,0.0
+21,Kicker,Goals,2,3.0257186081694405
+21,Kicker,Positive Evaluation,1,1.5128593040847202
+21,Kicker,Negative Evaluation,0,0.0
+22,Kicker,Attack,0,0.0
+22,Kicker,Defense,0,0.0
+22,Kicker,Goals,3,5.484460694698354
+22,Kicker,Positive Evaluation,1,1.8281535648994516
+22,Kicker,Negative Evaluation,0,0.0
+23,Kicker,Attack,1,2.028397565922921
+23,Kicker,Defense,0,0.0
+23,Kicker,Goals,2,4.056795131845842
+23,Kicker,Positive Evaluation,0,0.0
+23,Kicker,Negative Evaluation,0,0.0
+24,Kicker,Attack,10,15.822784810126583
+24,Kicker,Defense,0,0.0
+24,Kicker,Goals,7,11.075949367088608
+24,Kicker,Positive Evaluation,0,0.0
+24,Kicker,Negative Evaluation,0,0.0
+25,Kicker,Attack,5,6.648936170212766
+25,Kicker,Defense,0,0.0
+25,Kicker,Goals,7,9.308510638297872
+25,Kicker,Positive Evaluation,2,2.6595744680851063
+25,Kicker,Negative Evaluation,1,1.3297872340425532
+26,Kicker,Attack,1,1.639344262295082
+26,Kicker,Defense,1,1.639344262295082
+26,Kicker,Goals,1,1.639344262295082
+26,Kicker,Positive Evaluation,1,1.639344262295082
+26,Kicker,Negative Evaluation,0,0.0
+27,Kicker,Attack,5,8.8339222614841
+27,Kicker,Defense,0,0.0
+27,Kicker,Goals,2,3.5335689045936394
+27,Kicker,Positive Evaluation,0,0.0
+27,Kicker,Negative Evaluation,0,0.0
+28,Kicker,Attack,4,7.8125
+28,Kicker,Defense,1,1.953125
+28,Kicker,Goals,7,13.671875
+28,Kicker,Positive Evaluation,0,0.0
+28,Kicker,Negative Evaluation,0,0.0
+29,Kicker,Attack,3,7.389162561576354
+29,Kicker,Defense,0,0.0
+29,Kicker,Goals,2,4.926108374384237
+29,Kicker,Positive Evaluation,1,2.4630541871921183
+29,Kicker,Negative Evaluation,0,0.0
+30,Kicker,Attack,3,5.681818181818182
+30,Kicker,Defense,1,1.893939393939394
+30,Kicker,Goals,2,3.787878787878788
+30,Kicker,Positive Evaluation,0,0.0
+30,Kicker,Negative Evaluation,1,1.893939393939394
+31,Kicker,Attack,4,8.791208791208792
+31,Kicker,Defense,0,0.0
+31,Kicker,Goals,6,13.186813186813186
+31,Kicker,Positive Evaluation,1,2.197802197802198
+31,Kicker,Negative Evaluation,0,0.0
+32,Kicker,Attack,1,1.9120458891013383
+32,Kicker,Defense,0,0.0
+32,Kicker,Goals,4,7.648183556405353
+32,Kicker,Positive Evaluation,0,0.0
+32,Kicker,Negative Evaluation,0,0.0
+33,Kicker,Attack,1,2.0202020202020203
+33,Kicker,Defense,0,0.0
+33,Kicker,Goals,0,0.0
+33,Kicker,Positive Evaluation,0,0.0
+33,Kicker,Negative Evaluation,0,0.0
+34,Kicker,Attack,3,4.615384615384616
+34,Kicker,Defense,0,0.0
+34,Kicker,Goals,2,3.076923076923077
+34,Kicker,Positive Evaluation,0,0.0
+34,Kicker,Negative Evaluation,0,0.0
+35,Kicker,Attack,1,2.028397565922921
+35,Kicker,Defense,0,0.0
+35,Kicker,Goals,1,2.028397565922921
+35,Kicker,Positive Evaluation,0,0.0
+35,Kicker,Negative Evaluation,0,0.0
+36,Kicker,Attack,4,5.524861878453039
+36,Kicker,Defense,0,0.0
+36,Kicker,Goals,3,4.143646408839778
+36,Kicker,Positive Evaluation,0,0.0
+36,Kicker,Negative Evaluation,0,0.0
+37,Kicker,Attack,2,2.6246719160104988
+37,Kicker,Defense,0,0.0
+37,Kicker,Goals,6,7.874015748031496
+37,Kicker,Positive Evaluation,2,2.6246719160104988
+37,Kicker,Negative Evaluation,0,0.0
+38,Kicker,Attack,1,1.607717041800643
+38,Kicker,Defense,0,0.0
+38,Kicker,Goals,0,0.0
+38,Kicker,Positive Evaluation,0,0.0
+38,Kicker,Negative Evaluation,0,0.0
+39,Kicker,Attack,5,7.776049766718508
+39,Kicker,Defense,0,0.0
+39,Kicker,Goals,5,7.776049766718508
+39,Kicker,Positive Evaluation,1,1.5552099533437014
+39,Kicker,Negative Evaluation,0,0.0
+40,Kicker,Attack,1,1.7452006980802792
+40,Kicker,Defense,0,0.0
+40,Kicker,Goals,2,3.4904013961605584
+40,Kicker,Positive Evaluation,1,1.7452006980802792
+40,Kicker,Negative Evaluation,0,0.0
+41,Kicker,Attack,3,5.3097345132743365
+41,Kicker,Defense,0,0.0
+41,Kicker,Goals,2,3.5398230088495577
+41,Kicker,Positive Evaluation,0,0.0
+41,Kicker,Negative Evaluation,0,0.0
+42,Kicker,Attack,3,4.754358161648177
+42,Kicker,Defense,0,0.0
+42,Kicker,Goals,3,4.754358161648177
+42,Kicker,Positive Evaluation,0,0.0
+42,Kicker,Negative Evaluation,0,0.0
+43,Kicker,Attack,6,13.45291479820628
+43,Kicker,Defense,0,0.0
+43,Kicker,Goals,1,2.242152466367713
+43,Kicker,Positive Evaluation,0,0.0
+43,Kicker,Negative Evaluation,0,0.0
+44,Kicker,Attack,2,5.376344086021506
+44,Kicker,Defense,0,0.0
+44,Kicker,Goals,3,8.064516129032258
+44,Kicker,Positive Evaluation,0,0.0
+44,Kicker,Negative Evaluation,0,0.0
+45,Kicker,Attack,6,7.211538461538462
+45,Kicker,Defense,1,1.201923076923077
+45,Kicker,Goals,8,9.615384615384617
+45,Kicker,Positive Evaluation,0,0.0
+45,Kicker,Negative Evaluation,0,0.0
+46,Kicker,Attack,1,1.6051364365971108
+46,Kicker,Defense,0,0.0
+46,Kicker,Goals,6,9.630818619582664
+46,Kicker,Positive Evaluation,0,0.0
+46,Kicker,Negative Evaluation,0,0.0
+47,Kicker,Attack,4,4.796163069544364
+47,Kicker,Defense,3,3.5971223021582737
+47,Kicker,Goals,5,5.995203836930456
+47,Kicker,Positive Evaluation,0,0.0
+47,Kicker,Negative Evaluation,0,0.0
+48,Kicker,Attack,1,1.3495276653171389
+48,Kicker,Defense,0,0.0
+48,Kicker,Goals,2,2.6990553306342777
+48,Kicker,Positive Evaluation,1,1.3495276653171389
+48,Kicker,Negative Evaluation,0,0.0
+49,Kicker,Attack,1,1.86219739292365
+49,Kicker,Defense,0,0.0
+49,Kicker,Goals,5,9.31098696461825
+49,Kicker,Positive Evaluation,0,0.0
+49,Kicker,Negative Evaluation,1,1.86219739292365
+50,Kicker,Attack,1,1.658374792703151
+50,Kicker,Defense,0,0.0
+50,Kicker,Goals,5,8.291873963515755
+50,Kicker,Positive Evaluation,1,1.658374792703151
+50,Kicker,Negative Evaluation,0,0.0
+51,Kicker,Attack,4,6.688963210702341
+51,Kicker,Defense,0,0.0
+51,Kicker,Goals,4,6.688963210702341
+51,Kicker,Positive Evaluation,2,3.3444816053511706
+51,Kicker,Negative Evaluation,0,0.0
